@@ -1,0 +1,25 @@
+{
+  "name": "3dhubs-node",
+  "version": "0.1.0",
+  "description": "3D Hubs API for Node.js",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3DHubs/3dhubs-node"
+  },
+  "keywords": [
+    "3dhubs",
+    "3d",
+    "hubs",
+    "node",
+    "js",
+    "javascript",
+    "sdk"
+  ],
+  "author": "3D Hubs Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3DHubs/3dhubs-node/issues"
+  },
+  "homepage": "https://github.com/3DHubs/3dhubs-node#readme"
+}
